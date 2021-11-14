@@ -1,4 +1,4 @@
-# designing-data-intensive-applications
+# Designing Data-Intensive Applications
 数据密集型应用系统设计-读书笔记
 
 # 概要
