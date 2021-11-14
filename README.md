@@ -3,7 +3,7 @@
 
 # 概要
 
-* [可靠、可扩展与可维护的应用系统](chapter1.md)
-* [章节 2](chapter2.md)
-* [章节 3](chapter3.md)
+* [第1章 可靠、可扩展与可维护的应用系统](chapter1.md)
+* [第2章 数据模型与查询语言](chapter2.md)
+* [第3章 数据存储与检索](chapter3.md)
 
